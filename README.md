@@ -9,22 +9,19 @@
 
 ### Meu nome é Dinorá Vicente
 
-<code>👨🏾‍💻 - Sou desenvolvedora Front-End Jr. e estou buscando cada dia mais aprender.</code>
+<code>👨🏾‍💻 - Sou desenvolvedora back-end Jr. e estou buscando cada dia mais aprender.</code>
 
 <code>👨🏾‍🎓 - Estou cursando faculdade de Desenvolvimento WEB na Unopar.</code>
 
 <br/>
 
 - 🌱 Moro em Curitiba/PR.
-- 🔭 Minhas tecnologias favoritas são **CSS3 and JavaScript**
-- 😄 Sobre empregos: **Estou a procura!**
-- ⚡ Hobbies: **Me divirto jogando e aprendendo a desenvolver**❤
-- 📫 Como me encontrar: **dondi8181@gmail.com ou (47) 99720-7606**
 - ⭐ <a href="https://dinoravicente.github.io/Portfolio/">Meu portfólio</a> 
 
 <h4>Linguagens de Programação: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg.png" alt=Js width="60" height="60"/>
+ <img style="margin: auto;" src="https://p.kindpng.com/picc/s/174-1746636_java-logo-png-transparent-png.png" alt=Java width="60" height="60"/>	
 </p>
 
 <h4>FrameWorks, Libs e etc...: </h4>
